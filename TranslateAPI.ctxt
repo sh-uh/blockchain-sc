@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TranslateAPI
+comment0.text=\r\n\ TranslateAPI\ is\ the\ required\ interface\ for\ text\ translation\ service.\r\n\r\n\ @author\ (Suchismita\ Hoare)\r\n\ @version\ (05/02/2020)\r\n
+comment1.params=subsKey
+comment1.target=void\ getLanguages(java.lang.String)
+comment1.text=\r\n\ abstract\ Methods\ (have\ no\ body\ -\ are\ public\ abstract\ by\ default)\r\n
+comment2.params=inputText
+comment2.target=void\ detectLanguage(java.lang.String)
+comment3.params=AuthUser\ targetLanguage\ inputText
+comment3.target=void\ translateText(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DatabaseAdapter
+comment0.text=\r\n\ The\ class\ DatabaseAdapter\ provides\ an\ implementation\ of\ the\ Required\ (DatatbaseAPI\ -\ client)\ interface\ and\ wraps\ the\ Provided\ (AzureDatabaseAPI)\ interface.\r\n\r\n\ @author\ (Suchismita\ Hoare)\r\n\ @version\ (05/02/2020)\r\n
+comment1.params=db
+comment1.target=DatabaseAdapter(AzureDatabaseAPI)
+comment2.params=outputText\ Translation
+comment2.target=void\ insertTrans(java.lang.String,\ java.lang.String)
+comment3.params=queryParam
+comment3.target=void\ retrieveTrans(java.lang.String)
+comment4.params=id
+comment4.target=void\ deleteRec(java.lang.String)
+numComments=5

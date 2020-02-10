@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TranslatorAdapter
+comment0.text=\r\n\ The\ class\ TranslatorAdapter\ provides\ an\ implementation\ of\ the\ Required\ (TranslateAPI\ -\ client)\ interface\ and\ wraps\ the\ Provided\ (GoogleTranslateAPI)\ interface.\r\n\r\n\ @author\ (Suchismita\ Hoare)\r\n\ @version\ (05/02/2020)\r\n
+comment1.params=gtrans
+comment1.target=TranslatorAdapter(GoogleTranslateAPI)
+comment2.params=subsKey
+comment2.target=void\ getLanguages(java.lang.String)
+comment3.params=inputText
+comment3.target=void\ detectLanguage(java.lang.String)
+comment4.params=AuthUser\ targetLanguage\ inputText
+comment4.target=void\ translateText(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=5

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AzureDatabaseAPI
+comment0.text=\r\n\ The\ AzureDatabaseAPI\ interface\ is\ the\ provided\ interface\ for\ the\ DatabaseAdapter\ class..\r\n\r\n\ @author\ (Suchismita\ Hoare)\r\n\ @version\ (05/02/2020)\r\n
+comment1.params=item\ partitionKey
+comment1.target=void\ CreateItemAsync(java.lang.String,\ java.lang.String)
+numComments=2

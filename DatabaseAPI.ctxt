@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DatabaseAPI
+comment0.text=\r\n\ DatabaseAPI\ is\ the\ required\ interface\ for\ database\ service.\r\n\r\n\ @author\ (Suchismita\ Hoare)\r\n\ @version\ (05/02/2020)\r\n
+comment1.params=outputText\ Translation
+comment1.target=void\ insertTrans(java.lang.String,\ java.lang.String)
+comment2.params=queryParam
+comment2.target=void\ retrieveTrans(java.lang.String)
+comment3.params=id
+comment3.target=void\ deleteRec(java.lang.String)
+numComments=4
